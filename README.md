@@ -2,8 +2,8 @@
 
 > Современный, быстрый и кастомизируемый Twitch-чат и оверлей виджетов для стримеров на Windows.
 
-[![Release](https://img.shields.io/github/v/release/Or1GG1n/ReChat?color=amber&label=Version)](https://github.com/Or1GG1n/ReChat/releases)
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue)](https://github.com/Or1GG1n/ReChat)
+[![Release](https://img.shields.io/github/v/release/Or1GG1n/ReChat-Public?color=amber&label=Version)](https://github.com/Or1GG1n/ReChat-Public/releases)
+[![Platform](https://img.shields.io/badge/Platform-Windows-blue)](https://github.com/Or1GG1n/ReChat-Public)
 
 ---
 
@@ -21,7 +21,7 @@
 
 ## 🚀 Быстрый старт
 
-1. Перейдите во вкладку [**Releases**](https://github.com/Or1GG1n/ReChat/releases) и скачайте свежую версию `ReChat.exe` (или архив).
+1. Перейдите во вкладку [**Releases**](https://github.com/Or1GG1n/ReChat-Public/releases) и скачайте свежую версию `ReChat.exe` (или архив).
 2. Запустите `ReChat.exe`.
 3. Введите название вашего Twitch-канала в настройках.
 
